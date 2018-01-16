@@ -1,5 +1,5 @@
 FROM scratch
-MAINTAINER 007 "waajueji@gmail.com"
+MAINTAINER 123 "123@gmail.com"
 ADD centos-7.4.1708-docker.tar.xz /
 RUN yum -y install openssl openssl-devel pcre pcre-devel gcc gcc-c++ make libxml2 libxml2-devel libedit libedit-devel m4 autoconf
 
